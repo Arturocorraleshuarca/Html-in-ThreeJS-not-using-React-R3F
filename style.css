@@ -1,0 +1,28 @@
+
+body {
+  margin: 0;
+}
+iframe{
+  width: 1300px;
+  height: 800px;
+}
+
+canvas {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 973px;
+  height: 991px;
+  
+  pointer-events: none;
+}
+#three-html-box{
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+
+  top: 0px;
+  left: 0px;
+}
